@@ -1,0 +1,14 @@
+3
+(abc)
+(ab(cd)e)
+(a((ef)a)c)
+
+
+
+D
+F 0 b
+F 0 c
+F 1 c
+F 2 c
+U 2
+
